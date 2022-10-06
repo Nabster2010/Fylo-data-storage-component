@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/Fylo-data-storage-component)
+- Live Site URL: [live site](https://admirable-axolotl-7e796c.netlify.app/)
 
 ### Built with
 
